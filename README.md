@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌐 I'm experienced in **Python, C++, Terraform, Docker, Kubernetes, Ansible**
+- 🌐 I'm experienced in **Python, C++, Terraform, Docker, Kubernetes, Ansible,Jenkins,Prometheus,Grafana**
 - ☁️ I work with **AWS, Azure, GCP** — automating deployments and managing scalable systems
 - 🧠 Exploring **AI-driven DevOps**, **Edge Computing**, and **Smart VM Execution Models**
 - 🛠️ Projects include **real-time trading simulators**, **cloud management tools**, and **AI-enhanced virtual machines**
