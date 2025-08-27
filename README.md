@@ -66,7 +66,7 @@ I specialize in **high-performance systems, cloud-native applications, and AI-dr
 
 ## 📫 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-b28386252"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Kumar-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amit-kumar-9322b5306/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Kumar-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:amitkumar7970@gmail.com"><img src="https://img.shields.io/badge/Email-amitkumar7970%40gmail.com-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AMITKUMAR7970"><img src="https://img.shields.io/badge/GitHub-AMITKUMAR7970-black?logo=github" /></a>
 </p>  
