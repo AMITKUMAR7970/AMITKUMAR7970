@@ -1,67 +1,79 @@
-<h1 align="center">Hey there 👋, I'm Amit Kumar</h1>
-<h3 align="center">🚀 Software Developer | DevOps Engineer | Cloud & Systems Enthusiast</h3>
+# 👋 Hi, I'm Amit Kumar  
 
-<p align="center">
-  Passionate about building <b>high-performance systems</b>, automating everything with <b>DevOps</b>, and solving real-world problems through <b>clean code</b> and <b>smart infrastructure</b>.
-</p>
+🚀 **Software Developer | DevOps Engineer | AI/ML Enthusiast**  
+Passionate about building **high-performance systems, AI-driven solutions, and cloud-native applications**.  
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🌐 I'm experienced in **Python, C++, Terraform, Docker, Kubernetes, Ansible,Jenkins,Prometheus,Grafana**
-- ☁️ I work with **AWS, Azure, GCP** — automating deployments and managing scalable systems
-- 🧠 Exploring **AI-driven DevOps**, **Edge Computing**, and **Smart VM Execution Models**
-- 🛠️ Projects include **real-time trading simulators**, **cloud management tools**, and **AI-enhanced virtual machines**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amit-kumar-9322b5306/) · [Email](mailto:fan97895@gmail.com)
-
----
-
-### ⚙️ Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,aws,docker,kubernetes,terraform,ansible,linux,git,postgres,mysql,vscode,prometheus,grafana&theme=dark" />
-</p>
+## 🔥 About Me  
+- 💻 Skilled in **C++ & Python** for **low-latency systems** and **backend APIs**  
+- ☁️ Experienced in **Cloud & DevOps** (AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD)  
+- 🤖 Interested in **AI, Quantum Computing, Blockchain Security & Edge Computing**  
+- 📊 Built **trading simulators, hybrid cloud platforms, and advanced virtual machines**  
+- 🌍 Always eager to learn, innovate, and solve complex engineering problems  
 
 ---
 
-### 📈 GitHub Activity
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMITKUMAR7970&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AMITKUMAR7970&theme=tokyonight" height="165"/>
-</p>
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMITKUMAR7970&layout=compact&theme=tokyonight&hide_title=true" height="140"/>
-</p>
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  
 
----
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-### 🔥 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| **QuantumAI-VM** | Next-gen virtual machine with AI optimization, speculative execution, and quantum instruction emulation. | C++, Boost, AI, Blockchain |
-| **Hybrid Cloud Manager** | Unified dashboard for AWS, Azure, GCP with Terraform automation & cost insights. | Python, Terraform, React, Kubernetes |
-| **TradeSim** | Real-time trade simulator using OKX L2 orderbook and Almgren-Chriss slippage modeling. | C++, WebSocket, Finance API |
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-9322b5306/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:fan97895@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AMITKUMAR7970">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-  </a>
-</p>
+**Frameworks**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
 
 ---
 
-<p align="center"><i>"Code with clarity. Automate with precision. Optimize with intelligence."</i></p>
+## 📌 Featured Projects  
+
+### 🚀 [QuantumAI-VM](https://github.com/AMITKUMAR7970)  
+AI-optimized virtual machine with **quantum instruction emulation, blockchain-secured execution, and AI-based optimizations**.  
+
+### 📊 [Trade Simulator](https://github.com/AMITKUMAR7970)  
+High-performance **C++ trading simulator** using **real-time L2 orderbook data** with latency benchmarking.  
+
+### ☁️ [Hybrid Cloud Management Platform](https://github.com/AMITKUMAR7970)  
+Unified **multi-cloud automation** with **Terraform, Ansible, Kubernetes, Prometheus & Grafana**.  
+
+### ⚡ [Order Execution System](https://github.com/AMITKUMAR7970)  
+Low-latency **C++ order execution system** for Deribit exchange with **WebSocket integration**.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMITKUMAR7970&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMITKUMAR7970&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMITKUMAR7970&theme=radical)  
+
+---
+
+## 🌍 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-b28386252)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AMITKUMAR7970)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+---
+✨ _“Code. Automate. Optimize. Scale. Repeat.”_  
