@@ -16,25 +16,34 @@ I specialize in **high-performance systems, cloud-native applications, and AI-dr
 
 ## 🛠️ Tech Stack  
 
+### 🚀 Languages  
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&theme=dark" alt="Languages" />
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&theme=dark" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </marquee>
 </p>
 
+### ☁️ Cloud & DevOps  
 <p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark" alt="DevOps" />
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </marquee>
 </p>
 
+### 📊 Databases & Monitoring  
 <p align="center">
-  <!-- Monitoring & Databases -->
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog,postgresql,mysql,mongodb&theme=dark" alt="Databases & Monitoring" />
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prometheus,grafana,datadog&theme=dark" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </marquee>
 </p>
 
+### ⚡ Frameworks  
 <p align="center">
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,flask,fastapi&theme=dark" alt="Frameworks" />
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=react,flask,fastapi&theme=dark" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  </marquee>
 </p>
+
 
 
 ---
