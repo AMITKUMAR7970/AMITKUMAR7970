@@ -15,11 +15,27 @@ I specialize in **high-performance systems, cloud-native applications, and AI-dr
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** C++, Python, Java, JavaScript  
-**DevOps & Cloud:** AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions  
-**Monitoring & Automation:** Prometheus, Grafana, Datadog  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Frameworks:** React.js, Flask, FastAPI  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&theme=dark" alt="Languages" />
+</p>
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark" alt="DevOps" />
+</p>
+
+<p align="center">
+  <!-- Monitoring & Databases -->
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog,postgresql,mysql,mongodb&theme=dark" alt="Databases & Monitoring" />
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi&theme=dark" alt="Frameworks" />
+</p>
+
 
 ---
 
